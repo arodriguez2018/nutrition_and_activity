@@ -16,3 +16,13 @@ Goal:  1 row per date with summary items:  cal bonus, all nutrients, weight that
 
 then plot all lines over time:  cals, % of ea, weight, activity.
 
+RATIONAL:  hit a plateau..  need to dig in.
+
+make comments on strength and altheticism over time.
+
+what is the impact of hoidays on weight?
+
+who how more protein is hard, and fat/carbs also go up.
+
+alchol levels oer time?
+
