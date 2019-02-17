@@ -26,3 +26,4 @@ who how more protein is hard, and fat/carbs also go up.
 
 alchol levels oer time?
 
+missing:  BMI, DNA, workout details
