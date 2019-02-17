@@ -1,0 +1,95 @@
+Date,Name,Type,Quantity,Units,Calories,Fat (g),Protein (g),Carbohydrates (g),Saturated Fat (g),Sugars (g),Fiber (g),Cholesterol (mg),Sodium (mg)
+11/04/2018,"Apple, Small",Breakfast,1.0,Each,77,0.25,0.39,20.58,0.3,15.48,3.58,0,1.49
+11/04/2018,Dark Chocolate Macaroon,Breakfast,0.125,Cup,75,3,1,10,1.25,3.50,1,0,25
+11/04/2018,"Blueberries, Organic",Breakfast,0.125,Cup,9,0.13,0.13,2.13,0,1.63,0.50,0,0
+11/04/2018,Cherrywood Smoked Uncured Bacon,Breakfast,3.0,Pieces,105,6.75,9,1.50,2.25,1.50,n/a,15,360
+11/04/2018,Protein Packed Cinnamon Oat Pancake Mix,Breakfast,0.25,Cup,143,1.13,10.51,23.27,0,6.76,3,7.51,277.78
+11/04/2018,"Eggs - Organic Pasture-Raised, Large Grade A",Breakfast,0.333,Each,23,1.67,2,0,0.50,0,0,61.60,23.31
+11/04/2018,Grassfed Vitamin D Milk,Breakfast,0.25,Cup,43,2.25,2,3.25,1.25,3,0,8.75,35
+11/04/2018,"Butter, Pure Irish",Breakfast,0.5,Tablespoon,50,5.50,0,0,4,0,0,15,0
+11/04/2018,Maple Syrup,Breakfast,1.0,Serving,110,n/a,n/a,29,n/a,26,n/a,n/a,n/a
+11/04/2018,"Ham, Smoked, Black Forest",Breakfast,1.0,Ounce,30,0.51,5.6,1.1,0,1.1,0,15.19,283.50
+11/04/2018,Chocolate Shake,Breakfast,1.0,Container,160,3,30,5,1,1,3,20,210
+11/04/2018,"Protein Bar, Original, French Vanilla Créme",Lunch,1.0,Package,200,13,14,8,6,5,1,10,100
+11/04/2018,Tomato-Basil Soup w/ Cheddar Grilled Cheese,Lunch,1.0,Serving,534,31,19,37,n/a,16,11,n/a,n/a
+11/04/2018,"Butter, Pure Irish",Dinner,0.5,Tablespoon,50,5.50,0,0,4,0,0,15,0
+11/04/2018,"Bread, Artesano",Dinner,1.0,Slice,100,1,3,20,0,2,0.50,0,190
+11/04/2018,"Potatoes, Breakfast",Dinner,2.0,Each,280,10,4,42,0,2,4,0,580
+11/04/2018,"Pork, Shoulder, Boston Roast, Cooked",Dinner,0.667,Pound,814,57.6,69.92,0,21.9,0,0,260.19,202.71
+11/04/2018,Chocolate Shake,Dessert,1.0,Container,160,3,30,5,1,1,3,20,210
+11/03/2018,"Bacon, Strip",Breakfast,7.0,Each,280,21,21,7,7,0,0,52.50,1050
+11/03/2018,"Eggs - Organic Pasture-Raised, Large Grade A",Breakfast,5.0,Each,350,25,30,0,7.50,0,0,925,350
+11/03/2018,"Cheese, Goat",Breakfast,4.5,Tablespoons,113,9,6.75,2.25,5.63,2.25,0,45,270
+11/03/2018,"Butter, Pure Irish",Breakfast,0.5,Tablespoon,50,5.50,0,0,4,0,0,15,0
+11/03/2018,Grassfed Vitamin D Milk,Breakfast,0.125,Cup,21,1.13,1,1.63,0.63,1.50,0,4.38,17.50
+11/03/2018,"Pork Ribs, Backribs, Cooked",Dinner,3.75,Ounces,393,31.45,25.79,0,11.68,0,0,125.45,107.37
+11/03/2018,"French Fries, Medium, Fast Food",Dinner,0.25,Serving,107,5.71,1.26,12.57,1.33,0.23,1.17,0,64.99
+11/03/2018,"Soup, Chicken Tortilla, Bowl",Dinner,1.25,Each,600,28.75,30,60,10,n/a,5,n/a,2325
+11/03/2018,Mediterranean Crunch Salad kit,Dinner,200.0,Grams,300,20,6,28,0,2,2,0,40
+11/03/2018,Wild Alaskan Sockeye Salmon,Dinner,212.0,Grams,340,16,48,0,4,0,0,92,760
+11/03/2018,"Pudding, Banana",Dessert,4.25,Ounces,201,6.69,1.34,32.13,1.34,20.8,0.67,0,160.65
+11/03/2018,Chocolate Shake,Morning Nosh,1.0,Container,160,3,30,5,1,1,3,20,210
+11/02/2018,Cookies and Cream Protein Powder,Breakfast,35.0,Grams,140,2,25,5,1,2,1,45,100
+11/02/2018,Egg White Chicken Grill,Breakfast,1.0,Serving,300,7,25,31,n/a,n/a,0,n/a,n/a
+11/02/2018,"Chicken Breast, Skinless, Cooked",Breakfast,3.0,Ounces,140,3.4,26.38,0,0.86,0,0,72.29,62.94
+11/02/2018,Scrambled Eggs,Breakfast,1.0,Each,91,7,6,1,2,0.80,0,169,88
+11/02/2018,"Beef, Top Sirloin Steak, Lean, Cooked",Breakfast,1.5,Ounces,109,6.70,11.40,0,2.64,0,0,35.30,22.96
+11/02/2018,Bacon,Lunch,2.0,Slices,80,6,7,0,n/a,n/a,0,n/a,170
+11/02/2018,"Cheese, Cheddar, 1 oz Slice",Lunch,1.0,Slice,113,9.28,6.97,0.36,5.91,0.15,0,29.40,173.88
+11/02/2018,"Bun, Hamburger, Whole Wheat",Lunch,1.667,Each,191,3.37,6.24,36.63,0.59,6.6,5.38,0,342.63
+11/02/2018,"Ground Beef, Grass-fed, 85% Lean, Raw",Lunch,7.0,Ounces,464,35.96,35.16,0,15.75,0,0,130.97,123.4
+11/02/2018,"Beef, Short Ribs, Braised",Dinner,0.5,Pound,"1,068",95.21,48.92,0,40.37,0,0,213.19,113.40
+11/02/2018,"Beans, Pinto",Dinner,1.0,Serving,115,1,6,21,0,0,10,5,300
+11/02/2018,"French Fries, Medium, Fast Food",Dinner,0.333,Serving,142,7.61,1.68,16.74,1.77,0.31,1.56,0,86.57
+11/02/2018,"Bread, Artesano",Dinner,2.0,Slices,200,2,6,40,0,4,1,0,380
+11/01/2018,Gyro Meat (4 slices),Lunch,1.25,Each,425,31.25,18.75,13.75,12.50,1.25,0,100,1125
+11/01/2018,"Fried Rice, Vegetarian, Restaurant",Lunch,0.5,Cup,119,2.3,3.20,22.46,0.34,0.38,0.75,12.33,271.26
+11/01/2018,Taziki,Lunch,0.25,Cup,20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+11/01/2018,Tomato and Cucumber Salad,Lunch,5.0,Servings,107,0.99,2.87,24.39,0.11,15.33,3.82,0,970.98
+11/01/2018,Pita Bread,Lunch,4.0,Each,120,2,4,22,1,1,1,0,140
+11/01/2018,"Pizza, Hand Tossed, Pepperoni, Medium",Dinner,3.0,Slices,700,84,4,60,2,0.50,0.50,7,200
+11/01/2018,Ravioli,Dinner,5.0,Pouches,217,9.17,10.83,23.33,n/a,n/a,n/a,n/a,n/a
+11/01/2018,Chicken Fettuccine Alfredo,Dinner,2.5,Cups,775,3.75,10,67.50,0,5,2.50,0,1300
+11/01/2018,Almond Butter Bar,Morning Nosh,1.0,Serving,310,18,13,24,1.50,18,4,15,60
+11/01/2018,"Pumpkin Pie Blizzard, Mini",Dessert,1.125,Servings,405,15.75,7.88,60.75,n/a,n/a,n/a,n/a,n/a
+10/31/2018,"Soup, Chicken Noodle Classic, Chunky",Lunch,2.0,Cups,221,4.2,16.2,27.98,1.96,5.98,3.92,49,1680.70
+10/31/2018,"Salad, Veggie, Spring Mix",Lunch,2.0,Cups,160,12,6,9,2,3,2,5,560
+10/31/2018,"Hamburger, Whataburger, Triple Meat",Dinner,1.0,Each,"1,120",68,61,58,26,13,2,192,1759
+10/31/2018,Whataburger Spicy Ketchup,Dinner,5.0,Tablespoons,100,0,0,20,0,20,0,0,1200
+10/31/2018,Cookies and Cream Protein Powder,Morning Nosh,35.0,Grams,140,2,25,5,1,2,1,45,100
+10/31/2018,Oatmeal Raisin Cookie,Dessert,1.0,Serving,150,7,2,20,3,9,1,15,n/a
+10/30/2018,"Soup, Tomato Basil",Lunch,1.0,Serving,330,30,5,12,19,8,3,90,790
+10/30/2018,"Chips, Pita",Lunch,10.0,Pieces,130,5,3,19,0.50,1,1,0,270
+10/30/2018,Honey Smoked Turkey Breast,Lunch,0.333,Pound,160,2.66,26.64,2.66,1.33,2.66,0,21.31,1385.28
+10/30/2018,Avocado,Lunch,0.5,Each,161,14.73,2.1,8.57,2.13,0.66,6.73,0,7.4
+10/30/2018,"Dressing, Fresh Herb Vinaigrette",Lunch,2.0,Servings,580,60,0,12,5,8,0,0,900
+10/30/2018,"Egg, Hard Boiled, Whole, Large",Lunch,1.0,Each,78,5.30,6.29,0.56,1.63,0.56,0,186.50,62
+10/30/2018,Bacon,Lunch,1.0,Slice,40,3,3.50,0,n/a,n/a,0,n/a,85
+10/30/2018,"Cheese, Feta, Crumbled",Lunch,0.25,Cup,99,7.98,5.33,1.53,5.60,1.53,0,33.38,418.50
+10/30/2018,Oatmeal Raisin Cookie,Dessert,2.0,Servings,300,14,4,40,6,18,2,30,n/a
+10/30/2018,"Bread, Artesano",Dessert,4.0,Slices,400,4,12,80,0,8,2,0,760
+10/30/2018,Ravioli,Dessert,12.0,Pouches,520,22,26,56,n/a,n/a,n/a,n/a,n/a
+10/30/2018,"Sauce, Spaghetti, Garlic & Basil",Dessert,2.0,Cups,280,12,8,28,0,16,8,0,1520
+10/30/2018,"Ground Beef, Grass-fed, 85% Lean, Raw",Dessert,0.5,Pound,531,41.10,40.19,0,18,0,0,149.69,140.61
+10/29/2018,"Rice, White",Dinner,1.5,Servings,315,6,5.25,60,0.75,0,1.50,0,517.50
+10/29/2018,"Chicken, Orange",Dinner,2.333,Servings,887,41.99,32.66,104.98,8.17,44.33,0,186.64,1446.46
+10/29/2018,"Egg Roll, Chicken",Dinner,2.0,Each,310,8,12,48,1.50,12,3,15,860
+10/29/2018,"Vegetables, Balsamic, Sauteed",Dinner,2.0,Each,200,12,2,22,2,10,6,0,500
+10/29/2018,Cookies and Cream Protein Powder,Morning Nosh,35.0,Grams,140,2,25,5,1,2,1,45,100
+10/29/2018,"Almonds, Toasted Coconut",Morning Nosh,8.0,Pieces,46,3.71,1.43,2.29,0.29,0.86,0.86,0,10
+10/29/2018,"Cheese, Cheddar",Morning Nosh,1.0,Ounce,111,9.11,7.9,0,5.6,0,0,30.37,182.25
+10/29/2018,Oatmeal Raisin Cookie,Dessert,1.0,Serving,150,7,2,20,3,9,1,15,n/a
+10/29/2018,"Milk, Whole, Grass-Fed, Organic",Dessert,1.0,Cup,150,8,8,12,5,11,0,30,120
+11/04/2018,HealthKit Workout,Exercise,104,minutes,0.0
+11/04/2018,Calorie Burn Bonus,Exercise,0,minutes,1248.0
+11/03/2018,HealthKit Workout,Exercise,67,minutes,0.0
+11/03/2018,Calorie Burn Bonus,Exercise,0,minutes,1307.0
+11/02/2018,HealthKit Workout,Exercise,83,minutes,0.0
+11/02/2018,Calorie Burn Bonus,Exercise,0,minutes,1256.0
+11/01/2018,HealthKit Workout,Exercise,63,minutes,0.0
+11/01/2018,Calorie Burn Bonus,Exercise,0,minutes,1053.0
+10/31/2018,HealthKit Workout,Exercise,31,minutes,0.0
+10/31/2018,Calorie Burn Bonus,Exercise,0,minutes,690.0
+10/30/2018,Calorie Burn Bonus,Exercise,0,minutes,0.0
+10/29/2018,HealthKit Workout,Exercise,66,minutes,0.0
+10/29/2018,Calorie Burn Bonus,Exercise,0,minutes,890.0

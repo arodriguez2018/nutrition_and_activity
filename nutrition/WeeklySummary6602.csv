@@ -1,0 +1,126 @@
+Date,Name,Type,Quantity,Units,Calories,Fat (g),Protein (g),Carbohydrates (g),Saturated Fat (g),Sugars (g),Fiber (g),Cholesterol (mg),Sodium (mg)
+02/03/2019,"Juice, Orange",Breakfast,14.0,Fluid ounces,195,0.87,3.4,45.14,0.9,36.46,0.87,0,4.34
+02/03/2019,Barbacoa,Breakfast,1.0,Serving,165,7,24,2,2.50,0,1,60,530
+02/03/2019,"Tortilla, Flour, 8""",Breakfast,1.0,Each,144,3.56,3.81,23.62,0.86,0.88,1.43,0,292.56
+02/03/2019,"Eggs, Large",Breakfast,2.0,Each,140,9,12,2,3,0,0,430,130
+02/03/2019,"Beans, Refried",Breakfast,1.0,Cup,162,0,10.9,26.21,0,6.5,10.16,0,1391.50
+02/03/2019,"Potatoes, Breakfast",Breakfast,1.0,Each,140,5,2,21,0,1,2,0,290
+02/03/2019,"Bacon, Cooked",Breakfast,2.0,Pieces,87,6.68,5.93,0.23,2.20,0,0,17.60,369.60
+02/03/2019,"Tea, Iced, Lemon, Sweetened",Lunch,16.0,Fluid ounces,177,0,0,44.36,0,43.72,0,0,18.16
+02/03/2019,"Pork Ribs, Country Style, Cooked",Lunch,5.0,Ounces,465,35.92,33.17,0,13.5,0,0,130.41,73.71
+02/03/2019,"Salad, Potato",Lunch,1.667,Cups,475,25.13,6.38,56.39,4.29,0,0,250.5,1366.94
+02/03/2019,"Corn, Yellow, Sweet, Cream",Lunch,1.0,Cup,184,1.8,4.45,46.41,0.15,8.27,3.7,0,729.60
+02/03/2019,"Pizza, Pepperoni, 14"", Fast Food",Lunch,0.75,Slice,224,9.10,9.99,25.48,3.94,3.9,1.22,21.87,511.92
+02/03/2019,Lean Body,Morning Nosh,1.0,Serving,280,9,40,9,1,0,5,25,600
+02/03/2019,"Cake, Yellow, Vanilla Frosted, 8""",Dessert,1.0,Slice,250,9.71,2.35,39.40,1.59,20.10,0.20,36.85,230.48
+02/03/2019,"Beef, Jerky, Original",Morning Nosh,0.125,Pound,181,2.13,20.25,18.12,1.7,13.86,0,42.63,1481.42
+02/03/2019,"Fudge, Homemade",Morning Nosh,28.0,Grams,122,3.64,0.84,22.68,2.24,22.68,0,10.36,43.68
+02/03/2019,Beaver Nuggets,Morning Nosh,1.0,Ounce,120,0.25,1,22,0,14,1,0,190
+02/03/2019,"Pizza, Pepperoni, 14"", Fast Food",Morning Nosh,3.125,Slices,932,37.90,41.61,106.18,16.44,12.86,5.6,91.13,2133
+02/03/2019,"Soda, Pepsi",Morning Nosh,16.0,Fluid ounces,200,0,0,54.65,0,54.65,0,0,39.99
+02/03/2019,"Chicken Tenders, Fast Food",Morning Nosh,4.0,Each,324,18.76,20.99,17.64,3.6,0,0.90,50.40,959.84
+02/02/2019,"Milk, Whole",Breakfast,1.0,Cup,160,8,8,13,5,12,0,35,135
+02/02/2019,"Cereal, GOLEAN, Original",Breakfast,1.0,Serving,180,2,12,40,0,8,13,0,115
+02/02/2019,"Ribs, Beef, BBQ",Lunch,1.25,Pounds,"1,189",91.19,67.40,27.75,35.68,23.79,0,237.90,1387.74
+02/02/2019,"Brisket, Beef, Sliced, 4 oz",Lunch,0.25,Each,83,5.50,8,0.50,2.25,0.25,0,29.25,175.50
+02/02/2019,Sausage,Lunch,0.25,Serving,48,4.25,2,0.25,1.50,0.25,0,8.75,85
+02/02/2019,"Salad, Potato",Lunch,0.75,Cup,214,11.31,2.87,25.37,1.93,0,0,112.50,615
+02/02/2019,"Beans, Baked, Canned",Lunch,0.667,Cup,159,0.62,8.2,35.67,0.12,13.43,6.92,0,578.82
+02/02/2019,"Sauce, Barbecue, Honey",Lunch,6.0,Tablespoons,210,0,0,51,0,45,0,0,900
+02/02/2019,"Pickles, Dill, Spears",Lunch,5.0,Each,21,0.25,1.5,4.53,0.5,2.29,1.93,0,1531.25
+02/02/2019,"Sandwich, California Club, Half",Dinner,3.0,Each,930,57,45,60,21,9,6,165,1950
+02/02/2019,Medium Fruit Cup,Dinner,2.0,Servings,90,0,0,24,0,18,4,0,0
+02/02/2019,"Chips, Potato",Dinner,1.0,Ounce,160,10,2,14,2.50,0,1,0,180
+02/02/2019,"Salad Bar, Mixed Fruit and Yogurt",Dinner,1.0,Serving,70,0.50,2,17,0,13,2,0,20
+02/02/2019,"Greek Yogurt, Strawberry on the Bottom, Nonfat",Dinner,1.0,Container,120,0,12,19,0,15,0.50,0,60
+02/02/2019,"Ice Cream, Vanilla Cone",Dinner,1.0,Each,170,4.50,5,27,3,20,0,15,70
+02/02/2019,"Bread, White",Dinner,1.0,Slice,67,0.82,1.91,12.65,0.18,1.8,0.60,0,170.25
+02/02/2019,"Protein, Combat, Cookies & Cream",Morning Nosh,1.0,Scoop,140,1.50,25,5,1,2,1,75,150
+02/02/2019,Frosted Sugar Cookie,Dessert,1.0,Piece,160,6,1,25,2,18,n/a,10,105
+02/02/2019,"Bar, Granola, Chocolate Almond Sea Salt",Dessert,1.0,Each,140,5,3,23,2.50,7,3,0,140
+02/02/2019,"Bar, Granola, Chocolate Chip Chia",Dessert,1.0,Each,180,7,3,28,1.50,9,3,0,100
+02/02/2019,Sumatra Coffee Cashews,Dessert,5.0,Pieces,68,5,1.36,6.36,1.82,4.9,0.91,0,6.82
+02/02/2019,Coffee Creamer,Dessert,4.0,Tablespoons,60,0,0,8.80,0,6,0,0,59.20
+02/02/2019,"Bread, Sourdough",Morning Nosh,0.5,Slice,92,0.59,3.76,18.6,0.16,0.82,0.77,0,208
+02/01/2019,"Tortilla, Flour, 8""",Breakfast,4.0,Each,574,14.26,15.25,94.48,3.46,3.53,5.70,0,1170.24
+02/01/2019,"Eggs - Organic Pasture-Raised, Large Grade A",Breakfast,6.0,Each,420,30,36,0,9,0,0,1110,420
+02/01/2019,"Pork, Chorizo",Breakfast,1.0,Ounce,85,7.29,4.5,1.21,2.83,0.40,0,50.62,271.35
+02/01/2019,Tillamoo Medium Cheddar Cheese,Breakfast,1.0,Ounce,110,9,7,0,6,0,0,25,170
+02/01/2019,"Beef, Top Sirloin Steak, Lean, Cooked",Breakfast,1.333,Ounces,97,5.95,10.13,0,2.34,0,0,31.37,20.41
+02/01/2019,"Potatoes, Skinless, Cooked",Lunch,1.0,Cup,134,0.16,2.67,31.22,0.3,1.33,2.81,0,7.80
+02/01/2019,Sausage Patty,Lunch,1.0,Serving,180,17,6,0,6,0,0,28,270
+02/01/2019,"Hamburger, Whataburger, Triple Meat",Dinner,1.0,Each,"1,120",68,61,58,26,13,2,192,1759
+02/01/2019,Chicken Bites,Dinner,7.0,Pieces,380,19,22,31,4,1,6,65,1080
+02/01/2019,"Gravy, White Peppered",Dinner,1.0,Each,60,5,0,8,1,2,0,0,421
+02/01/2019,Whataburger Spicy Ketchup,Dinner,5.0,Tablespoons,100,0,0,20,0,20,0,0,1200
+02/01/2019,"Protein, Combat, Cookies & Cream",Morning Nosh,1.0,Scoop,140,1.50,25,5,1,2,1,75,150
+02/01/2019,Extra Protein Crunchy Peanut Butter,Morning Nosh,32.0,Grams,170,13,10,6,2,3,2,0,110
+02/01/2019,Tillamoo Medium Cheddar Cheese,Morning Nosh,0.75,Ounce,83,6.75,5.25,0,4.50,0,0,18.75,127.50
+02/01/2019,"Pineapple, Chunks",Morning Nosh,1.25,Cups,103,0.25,1.11,27.6,0.2,20.32,2.89,0,2.6
+02/01/2019,Chips,Morning Nosh,1.5,Ounces,210,9,3,27,1.50,3,3,0,180
+02/01/2019,"Bread, Sourdough",Morning Nosh,0.75,Slice,139,0.88,5.64,27.9,0.24,1.23,1.15,0,312
+01/31/2019,Egg White Chicken Grill,Breakfast,1.0,Serving,300,6,25,31,3,1,1,55,970
+01/31/2019,Hash Brown Bites,Breakfast,1.0,Serving,240,16,2,23,2.50,0,3,n/a,390
+01/31/2019,"Chicken, Rotisserie, Half",Lunch,0.75,Each,480,24.75,63,1.50,7.50,0.75,0,255,1035
+01/31/2019,Pappardelle,Lunch,4.0,Ounces,400,4,16,76,2,2,4,140,30
+01/31/2019,"Butter, Pure Irish",Lunch,1.0,Tablespoon,100,11,0,0,8,0,0,30,0
+01/31/2019,"Cream, Heavy",Lunch,0.125,Cup,100,10,0,0,7,0,0,40,0
+01/31/2019,"Corn, Sweet, Kernels",Lunch,0.75,Cup,94,1.47,3.56,20.34,0.35,6.81,2.17,0,16.31
+01/31/2019,"Wrap, Grilled Chicken, Cool",Dinner,1.0,Each,340,13,36,30,4.50,3,15,60,900
+01/31/2019,"Sauce, Zesty Buffalo",Dinner,2.0,Servings,100,9,0,2,2,0,0,10,1420
+01/31/2019,"Dressing, Chili Lime Vinaigrette",Dinner,1.0,Serving,60,3,0,9,0,7,1,0,390
+01/31/2019,"Salad, Spicy Southwest",Dinner,1.0,Each,420,19,34,32,6,7,8,65,930
+01/31/2019,"Protein, Combat, Cookies & Cream",Morning Nosh,1.0,Scoop,140,1.50,25,5,1,2,1,75,150
+01/31/2019,Extra Protein Crunchy Peanut Butter,Morning Nosh,96.0,Grams,510,39,30,18,6,9,6,0,330
+01/31/2019,Greek Yogurt - Strawberry (whole Milk),Morning Nosh,1.0,Serving,140,4.50,12,12,2.50,10,0,20,60
+01/31/2019,Sausage Patty,Morning Nosh,0.5,Serving,90,8.50,3,0,3,0,0,14,135
+01/31/2019,"Eggs - Organic Pasture-Raised, Large Grade A",Morning Nosh,0.5,Each,35,2.50,3,0,0.75,0,0,92.50,35
+01/31/2019,Sumatra Coffee Cashews,Morning Nosh,11.0,Pieces,150,11,3,14,4,9,2,0,15
+01/31/2019,Ice Dream Cone,Dessert,1.0,Serving,170,4,5,31,2,25,0,n/a,n/a
+01/31/2019,"Bread, Sourdough",Morning Nosh,0.75,Slice,139,0.88,5.64,27.9,0.24,1.23,1.15,0,312
+01/30/2019,Pappardelle,Dinner,4.75,Ounces,475,4.75,19,90.25,2.38,2.38,4.75,166.25,35.63
+01/30/2019,"Butter, Pure Irish",Dinner,2.0,Tablespoons,200,22,0,0,16,0,0,60,0
+01/30/2019,"Corn, Sweet, Kernels",Dinner,1.0,Cup,125,1.96,4.74,27.11,0.46,9.8,2.90,0,21.75
+01/30/2019,"Bread, Sourdough",Dinner,1.0,Slice,185,1.17,7.52,36.12,0.31,1.64,1.54,0,416
+01/30/2019,"Chicken, Rotisserie, Half",Dinner,1.0,Each,640,33,84,2,10,1,0,340,1380
+01/30/2019,"Chicken, Leg, w/ Skin, Cooked",Dinner,1.0,Each,264,15.34,29.59,0,4.24,0,0,104.88,99.18
+01/30/2019,"Cheese, Parmesan, Grated",Dinner,4.0,Tablespoons,86,5.72,7.69,0.81,3.46,0.18,0,17.60,305.80
+01/30/2019,"Cream, Heavy",Dinner,0.25,Cup,200,20,0,0,14,0,0,80,0
+01/30/2019,Red Pepper Beef Jerky,Morning Nosh,2.5,Ounces,200,1.25,40,5,0,0,2.50,12.50,750
+01/30/2019,Hard-boiled,Morning Nosh,4.0,Servings,200,14,22,0,4,0,0,600,220
+01/30/2019,Maui Mango Tea,Morning Nosh,1.0,Serving,50,0,0,11,0,8,0.50,2.50,35
+01/30/2019,Tillamoo Medium Cheddar Cheese,Morning Nosh,0.75,Ounce,83,6.75,5.25,0,4.50,0,0,18.75,127.50
+01/30/2019,Greek Yogurt - Strawberry (whole Milk),Dessert,1.0,Serving,140,4.50,12,12,2.50,10,0,20,60
+01/29/2019,"Steak, Top Sirloin, Grilled, 8 oz",Breakfast,0.5,Each,180,7.85,25.30,2.15,2.75,n/a,n/a,n/a,297.60
+01/29/2019,"Broccoli, Roasted w/ Oil",Breakfast,1.5,Servings,53,3.75,1.57,4.88,0.53,0.98,2.25,0,27.68
+01/29/2019,"Rice, White, Basmati, Cooked",Breakfast,1.0,Cup,204,0.60,4.90,43.30,0.30,0,0.90,0,2
+01/29/2019,Wild Alaskan Sockeye Salmon,Lunch,212.0,Grams,340,16,48,0,4,0,0,92,760
+01/29/2019,Tiesta Tea,Dinner,1.0,Serving,35,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+01/29/2019,"Beef, Ground Chuck 80/20",Dinner,1.0,Pound,"1,120",88,76,0,36,0,0,320,300
+01/29/2019,Avocado,Dinner,0.5,Each,161,14.73,2.1,8.57,2.13,0.66,6.73,0,7.4
+01/29/2019,Crustini Buns,Dinner,1.0,Serving,180,2,5,33,0.50,2,1,0,400
+01/29/2019,"Potato Sweet, Crispy Bite Puffs",Dinner,3.0,Ounces,140,4.50,1,23,0,9,3,0,230
+01/29/2019,"Fries, Waffle, Seasoned",Dinner,84.0,Grams,160,7,2,21,4.50,0,2,0,330
+01/29/2019,"Protein, Combat, Cookies & Cream",Morning Nosh,1.0,Scoop,140,1.50,25,5,1,2,1,75,150
+01/29/2019,Caramel Double Chocolate Crunch Bar,Morning Nosh,1.0,Each,160,9,9,3,6,1,11,5,210
+01/29/2019,Extra Protein Crunchy Peanut Butter,Dessert,32.0,Grams,170,13,10,6,2,3,2,0,110
+01/28/2019,"Steak, Top Sirloin, Grilled, 8 oz",Dinner,2.25,Each,808,35.33,113.85,9.68,12.38,n/a,n/a,n/a,1339.20
+01/28/2019,"Rice, White, Basmati, Cooked",Dinner,1.0,Cup,204,0.60,4.90,43.30,0.30,0,0.90,0,2
+01/28/2019,"Egg Roll, Chicken",Dinner,1.5,Each,233,6,8.25,36,1.13,9,2.25,7.50,637.50
+01/28/2019,"Broccoli, Roasted w/ Oil",Dinner,3.0,Servings,107,7.50,3.15,9.75,1.5,1.95,4.50,0,55.35
+01/28/2019,"Protein, Combat, Cookies & Cream",Morning Nosh,1.0,Scoop,140,1.50,25,5,1,2,1,75,150
+01/28/2019,Island punch,Morning Nosh,1.0,Serving,12,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+02/03/2019,HealthKit Workout,Exercise,63,minutes,0.0
+02/03/2019,Calorie Burn Bonus,Exercise,0,minutes,970.0
+02/02/2019,HealthKit Workout,Exercise,28,minutes,0.0
+02/02/2019,Calorie Burn Bonus,Exercise,0,minutes,688.0
+02/01/2019,HealthKit Workout,Exercise,30,minutes,0.0
+02/01/2019,HealthKit Workout,Exercise,77,minutes,0.0
+02/01/2019,Calorie Burn Bonus,Exercise,0,minutes,1283.0
+01/31/2019,HealthKit Workout,Exercise,89,minutes,0.0
+01/31/2019,Calorie Burn Bonus,Exercise,0,minutes,772.0
+01/30/2019,Calorie Burn Bonus,Exercise,0,minutes,138.0
+01/29/2019,HealthKit Workout,Exercise,133,minutes,0.0
+01/29/2019,Calorie Burn Bonus,Exercise,0,minutes,1562.0
+01/28/2019,HealthKit Workout,Exercise,39,minutes,0.0
+01/28/2019,Calorie Burn Bonus,Exercise,0,minutes,590.0

@@ -1,0 +1,92 @@
+Date,Name,Type,Quantity,Units,Calories,Fat (g),Protein (g),Carbohydrates (g),Saturated Fat (g),Sugars (g),Fiber (g),Cholesterol (mg),Sodium (mg)
+09/23/2018,"Doughnut, Glazed Blueberry Cake",Breakfast,0.75,Each,278,18,1.50,29.25,7.50,20.25,0.75,15,157.50
+09/23/2018,"Doughnut, Original Glazed",Breakfast,1.0,Each,190,11,2,21,5,10,1,0,75
+09/23/2018,"Juice, Orange",Breakfast,8.0,Fluid ounces,112,0.50,1.74,25.79,0.5,20.83,0.50,0,2.48
+09/23/2018,Bacon,Breakfast,2.0,Slices,80,6,7,0,n/a,n/a,0,n/a,170
+09/23/2018,Biscuit and Gravy,Breakfast,1.0,Each,530,36,9,52,14,7,1,12,1823
+09/23/2018,"Biscuit, With Sausage",Breakfast,1.0,Each,540,37,18,32,17,2,1,23,1169
+09/23/2018,Pancakes,Breakfast,0.333,Each,193,2.66,5.66,37.30,0.67,8.99,1.67,0.33,722.61
+09/23/2018,"Syrup, Maple",Breakfast,1.0,Tablespoon,52,0.4,0,13.42,0.1,11.90,0,0,1.80
+09/23/2018,"Margarine, Soft",Breakfast,1.0,Teaspoon,34,3.75,0.2,0.6,0.54,0,0,0,33.32
+09/23/2018,"Toaster Pastry, Frosted Brown Sugar Cinnamon",Breakfast,1.0,Each,210,7,2,34,2,16,0,0,170
+09/23/2018,"Popcorn, White Cheddar Cheese",Dinner,2.5,Ounces,400,25,7.50,35,5,5,5,0,725
+09/23/2018,Hopadillo IPA Beer,Dinner,24.0,Fluid ounces,297,0,3,27,0,0,0,0,21
+09/23/2018,"Crackers, Saltine",Dinner,2.0,Each,25,0.53,0.57,4.46,0.12,0.13,0.17,0,66.96
+09/23/2018,"Bread, French, Small Slice",Dinner,1.667,Slices,154,0.98,6.27,30.11,0.26,1.37,1.28,0,346.74
+09/23/2018,"Butter, Salted",Dinner,1.0,Tablespoon,102,11.52,0.12,0.1,7.29,0.1,0,30.53,81.79
+09/23/2018,"Mashed Potatoes, Homemade w/ Whole Milk & Butter",Dinner,1.0,Cup,237,8.86,3.91,35.30,5.48,3,3.15,23.10,665.70
+09/23/2018,"Fish, Channel Catfish, Breaded & Fried",Dinner,1.0,Piece,199,11.60,15.74,6.99,2.85,0.61,0,70.47,243.60
+09/23/2018,"Shrimp, Breaded Fried, Fast Food",Dinner,3.0,Each,195,10.67,8.9,17.14,2.31,0,0,85.74,619.83
+09/23/2018,"Shrimp, Crab Stuffed",Dinner,1.0,Each,238,n/a,17.70,9.30,10.70,n/a,1.40,109.70,272.10
+09/23/2018,"Mushrooms, Lobster, Crab & Seafood Stuffed",Dinner,2.0,Each,640,36,42,40,16,n/a,n/a,n/a,1980
+09/23/2018,"Ice Cream, Vanilla",Dessert,0.5,Cup,137,7.26,2.31,15.58,4.48,14.1,0.46,29.4,52.80
+09/23/2018,Bread Pudding,Dessert,0.75,Serving,750,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+09/22/2018,Alfresco Pasture-Raised Eggs,Breakfast,3.0,Each,210,15,18,0,4.50,0,0,555,210
+09/22/2018,Sausage Patty,Breakfast,1.0,Serving,180,17,6,0,6,0,0,28,270
+09/22/2018,Bacon,Breakfast,2.5,Slices,100,7.50,8.75,0,n/a,n/a,0,n/a,212.50
+09/22/2018,"Cheese, Cheddar",Breakfast,2.0,Ounces,223,18.22,14.17,0,10.12,0,0,60.75,364.49
+09/22/2018,"Sandwich, Sub, Italian Night Club #9",Lunch,0.667,Each,634,34.2,29.35,46.69,8,n/a,0.67,66.70,1444.72
+09/22/2018,The Dominic,Dinner,8.0,Slices,"1,472",48,56,194,20,6,8,104,3660
+09/22/2018,Cesear Salad,Dinner,1.25,Servings,250,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+09/22/2018,"Tortilla Chips, Nacho Cheese",Morning Nosh,5.0,Grams,25,1.43,0.36,2.86,0.18,0,0.18,0,37.50
+09/22/2018,"Peanuts, Dry Cooked, w/ Salt",Morning Nosh,9.0,Each,53,4.47,2.13,1.94,0.62,0.38,0.72,0,73.17
+09/21/2018,Cookies and Cream Protein Powder,Breakfast,35.0,Grams,140,2,25,5,1,2,1,45,100
+09/21/2018,Egg White Chicken Grill,Breakfast,2.0,Servings,600,12,50,62,6,2,2,110,1940
+09/21/2018,Greek Salad With Gyro Meat,Lunch,1.333,Servings,600,26.66,27.99,2.67,n/a,n/a,n/a,n/a,n/a
+09/21/2018,"Tortilla Chips, Nacho Cheese",Dinner,10.0,Grams,50,2.86,0.71,5.71,0.36,0,0.36,0,75
+09/21/2018,"Hamburger, Whataburger, Triple Meat",Dinner,1.0,Each,"1,120",68,61,58,26,13,2,192,1759
+09/21/2018,"Popcorn, Butter",Morning Nosh,3.5,Cups,149,10.50,1.75,14.88,5.25,0,2.63,0,332.50
+09/20/2018,Cookies and Cream Protein Powder,Breakfast,35.0,Grams,140,2,25,5,1,2,1,45,100
+09/20/2018,Egg White Chicken Grill,Breakfast,1.0,Serving,300,6,25,31,3,1,1,55,970
+09/20/2018,Medium Fruit Cup,Breakfast,2.0,Servings,90,0,0,24,0,18,4,0,0
+09/20/2018,Southwest Styke Chicken,Lunch,1.0,Serving,300,6,35,27,3,4,3,90,490
+09/20/2018,Mediterranean Crunch Salad kit,Dinner,221.0,Grams,332,22.10,6.63,30.94,0,2.21,2.21,0,44.20
+09/20/2018,Chicken Breast,Dinner,0.667,Pound,293,6.67,56.3,0,2.67,n/a,n/a,160.8,933.80
+09/20/2018,"Cheese, Cheddar",Dinner,1.0,Ounce,111,9.11,7.9,0,5.6,0,0,30.37,182.25
+09/20/2018,"Bar, Dark Chocolate Almond",Morning Nosh,1.0,Each,310,18,12,23,3,17,4,15,50
+09/20/2018,Cacahuate enchilado,Morning Nosh,0.75,Serving,146,10.50,5.25,7.50,1.13,0,0.75,0,82.50
+09/19/2018,Southwest Styke Chicken,Lunch,1.0,Serving,300,6,35,27,3,4,3,90,490
+09/19/2018,"Rice, White, Cooked",Dinner,1.0,Cup,242,0.39,4.43,53.18,0.11,n/a,0.56,0,0
+09/19/2018,"Beans, Black",Dinner,1.0,Serving,120,1,7,22,0,0,12,0,260
+09/19/2018,Avacado,Dinner,0.667,Each,151,14.1,1.80,8,2,0.27,6.14,0,7.34
+09/19/2018,"Fajitas, Beef, Tenderized w/ Papain Slices",Dinner,0.75,Pound,567,18.22,60.75,8.10,12.15,0,0,202.50,2915.95
+09/19/2018,"Tortilla, Flour, 6""",Dinner,2.0,Each,187,4.65,4.97,30.81,1.13,1.15,1.86,0,381.60
+09/19/2018,Greek Yogurt Dip chipotle ranch,Morning Nosh,2.0,Tablespoons,60,5,2,2,0,1,0,5,300
+09/19/2018,Italian Dry Salami,Morning Nosh,1.0,Ounce,100,7,8,1,2.50,n/a,n/a,35,400
+09/19/2018,"Cheese, Cheddar",Morning Nosh,1.0,Ounce,111,9.11,7.9,0,5.6,0,0,30.37,182.25
+09/19/2018,Pure Greek Yogurt,Morning Nosh,1.125,Servings,158,6.75,18,6.75,3.38,4.50,0,33.75,90
+09/18/2018,Cookies and Cream Protein Powder,Breakfast,35.0,Grams,140,2,25,5,1,2,1,45,100
+09/18/2018,Egg White Grill,Breakfast,1.0,Serving,300,n/a,25,31,n/a,1,1,n/a,970
+09/18/2018,Medium Fruit Cup,Breakfast,2.0,Servings,90,0,0,24,0,18,4,0,0
+09/18/2018,Chicken Ranch Casserole,Lunch,1.0,Serving,380,8,33,42,4,9,10,75,580
+09/18/2018,Avocado,Dinner,0.667,Each,215,19.65,2.68,11.44,2.84,0.88,8.98,0,9.38
+09/18/2018,"Corn, Sweet, Kernels",Dinner,0.667,Cup,83,1.31,3.16,18.9,0.31,6.5,1.93,0,14.51
+09/18/2018,"Rice, Brown",Dinner,1.0,Serving,210,5.50,4,36,1,0,2.50,0,195
+09/18/2018,"Fajitas, Beef, Tenderized w/ Papain Slices",Dinner,0.75,Pound,567,18.22,60.75,8.10,12.15,0,0,202.50,2915.95
+09/18/2018,Greek Yogurt Dip chipotle ranch,Morning Nosh,3.0,Tablespoons,90,7.50,3,3,0,1.50,0,7.50,450
+09/18/2018,Italian Dry Salami,Morning Nosh,1.0,Ounce,100,7,8,1,2.50,n/a,n/a,35,400
+09/18/2018,"Cheese, Cheddar",Morning Nosh,1.0,Ounce,111,9.11,7.9,0,5.6,0,0,30.37,182.25
+09/17/2018,Paleo Jamaican Style Jerk Chicken,Lunch,1.0,Serving,360,7,31,48,1.50,24,7,80,590
+09/17/2018,Cookies and Cream Protein Powder,Lunch,35.0,Grams,140,2,25,5,1,2,1,45,100
+09/17/2018,"Chips, Tortilla, Cafe Style",Dinner,10.0,Pieces,200,10,2.86,25.71,2.86,0,2.86,0,157.14
+09/17/2018,"Avocado, California",Dinner,1.0,Each,227,20.96,2.67,11.75,2.88,0.41,9.25,0,10.88
+09/17/2018,"Sour Cream, Regular",Dinner,5.0,Tablespoons,150,12.50,2.50,5,8.75,2.50,0,50,37.50
+09/17/2018,"Cheese, Cheddar",Dinner,2.0,Ounces,223,18.22,14.17,0,10.12,0,0,60.75,364.49
+09/17/2018,"Tortilla, Corn",Dinner,3.0,Each,157,2.5,4.10,32.14,0.32,0.63,4.54,0,32.40
+09/17/2018,"Turkey, Ground, 93% Lean",Dinner,0.5,Pound,336,17.37,44.59,0,4.59,0,0,156.49,131.54
+09/17/2018,Greek Yogurt Dip chipotle ranch,Morning Nosh,5.0,Tablespoons,150,12.50,5,5,0,2.50,0,12.50,750
+09/17/2018,"Cheese, Cheddar",Morning Nosh,3.0,Ounces,334,27.34,21.26,0,15.19,0,0,91.12,546.74
+09/17/2018,Italian Dry Salami,Morning Nosh,1.0,Ounce,100,7,8,1,2.50,n/a,n/a,35,400
+09/23/2018,Calorie Burn Bonus,Exercise,0,minutes,57.0
+09/22/2018,HealthKit Workout,Exercise,149,minutes,0.0
+09/22/2018,Calorie Burn Bonus,Exercise,0,minutes,1349.0
+09/21/2018,HealthKit Workout,Exercise,15,minutes,0.0
+09/21/2018,Calorie Burn Bonus,Exercise,0,minutes,372.0
+09/20/2018,HealthKit Workout,Exercise,77,minutes,0.0
+09/20/2018,Calorie Burn Bonus,Exercise,0,minutes,1025.0
+09/19/2018,HealthKit Workout,Exercise,28,minutes,0.0
+09/19/2018,Calorie Burn Bonus,Exercise,0,minutes,457.0
+09/18/2018,HealthKit Workout,Exercise,70,minutes,0.0
+09/18/2018,Calorie Burn Bonus,Exercise,0,minutes,819.0
+09/17/2018,HealthKit Workout,Exercise,46,minutes,0.0
+09/17/2018,Calorie Burn Bonus,Exercise,0,minutes,711.0
