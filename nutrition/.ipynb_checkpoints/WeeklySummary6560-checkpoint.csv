@@ -1,0 +1,119 @@
+Date,Name,Type,Quantity,Units,Calories,Fat (g),Protein (g),Carbohydrates (g),Saturated Fat (g),Sugars (g),Fiber (g),Cholesterol (mg),Sodium (mg)
+12/23/2018,"Milk, Whole, Vitamin D",Breakfast,2.0,Cups,320,16,16,26,5,24,0,70,270
+12/23/2018,Wild Berry Cereal,Breakfast,3.0,Cups,660,9,15,132,0,21,9,0,990
+12/23/2018,"Combat Powder, Chocolate Milk",Breakfast,1.25,Scoops,163,1.88,31.25,6.25,1.25,2.50,1.25,57.50,187.50
+12/23/2018,Sumatra Coffee Cashews,Breakfast,13.0,Pieces,177,13,3.55,16.55,4.73,10.64,2.36,0,17.73
+12/23/2018,"Pizza, Cheese, 14"", Fast Food",Dinner,4.0,Slices,"1,088",39.18,49.7,134.23,17.39,16.56,7,86.52,2204.20
+12/23/2018,"Ice Cream, Vanilla Cone",Dinner,1.0,Each,170,4.50,5,27,3,20,0,15,70
+12/23/2018,Chicken Fettuccine Alfredo,Dinner,2.5,Cups,775,3.75,10,67.50,0,5,2.50,0,1300
+12/23/2018,Organic Aussie Bites,Morning Nosh,2.0,Pieces,260,14,4,32,4,16,4,0,180
+12/23/2018,Sopressata Spirella Minis,Morning Nosh,5.0,Pieces,258,18.33,20,4.17,8.33,0,1.67,70.83,825
+12/23/2018,Super Extra Large Peanuts,Morning Nosh,30.0,Grams,170,15,8,6,2,0,3,0,120
+12/23/2018,Tortilla Chips Thins,Morning Nosh,28.0,Grams,130,6,2,17,1,0,2,0,50
+12/23/2018,"Bread, Thin Sliced, 21 Whole Grains & Seeds",Morning Nosh,1.0,Slice,60,1,3,12,0,3,3,0,100
+12/23/2018,Tillamoo Medium Cheddar Cheese,Morning Nosh,2.0,Ounces,220,18,14,0,12,0,0,50,340
+12/23/2018,Sumatra Coffee Cashews,Morning Nosh,22.0,Pieces,300,22,6,28,8,18,4,0,30
+12/23/2018,Mediterranean Crunch Salad kit,Morning Nosh,200.0,Grams,300,20,6,28,0,2,2,0,40
+12/23/2018,"Perfect Bar, Peanut Butter",Morning Nosh,1.0,Each,330,18,17,26,3,18,4,15,60
+12/22/2018,"Bread, Thin Sliced, 21 Whole Grains & Seeds",Lunch,2.0,Slices,120,2,6,24,0,6,6,0,200
+12/22/2018,"Cheese, Cheddar",Lunch,1.0,Ounce,111,9.11,7.9,0,5.6,0,0,30.37,182.25
+12/22/2018,Boarshead Oven Gold Turkey,Lunch,0.125,Pound,180,0.33,4.33,0,0,0,0,6.67,116.67
+12/22/2018,Chocolate Chip Cookie,Lunch,2.0,Servings,400,16,16,66,8,24,10,0,520
+12/22/2018,"Apple, Small",Lunch,0.25,Each,19,0.6,0.10,5.14,0.1,3.87,0.89,0,0.37
+12/22/2018,"Chicken Nuggets, Grilled, 12 piece",Dinner,1.0,Serving,200,4.50,34,6,1.50,1,0,110,800
+12/22/2018,Spicy Chicken Filet (No Bun),Dinner,1.0,Serving,300,15,27,16,4,2,1,65,1220
+12/22/2018,"Sauce, Barbecue Sauce",Dinner,2.0,Packages,90,0,0,20,n/a,n/a,n/a,n/a,n/a
+12/22/2018,Light Italian dressing,Dinner,1.0,Serving,20,1,0,3,0,2,0,0,470
+12/22/2018,Chick Fil A Side Salad,Dinner,1.0,Serving,80,4.50,5,6,3,3,3,n/a,n/a
+12/22/2018,Charred Tomato Crispy Red Bell Peppers,Dinner,1.0,Serving,80,6,1,6,0.50,1,1,n/a,n/a
+12/22/2018,Chicken Breast,Dinner,0.5,Pound,220,5,42,0,2,n/a,n/a,120,700
+12/22/2018,"Chicken, Leg, w/ Skin, Cooked",Dinner,1.0,Each,264,15.34,29.59,0,4.24,0,0,104.88,99.18
+12/22/2018,Sopressata Spirella Minis,Dinner,5.0,Pieces,258,18.33,20,4.17,8.33,0,1.67,70.83,825
+12/22/2018,Grass Fed Whey Chocolate,Morning Nosh,1.0,Serving,120,0.50,24,6,0,0,2,5,130
+12/22/2018,Original Tart,Dessert,16.0,Fluid ounces,360,0,12,80,n/a,60,n/a,n/a,460
+12/22/2018,"Brownie Mix, Chewy Fudge",Dessert,0.5,Ounce,58,0.87,0.63,11.85,0.24,7.76,0.41,0,64.78
+12/22/2018,Cheesecake,Dessert,0.125,Slice,32,2.25,0.55,2.55,0.99,2.18,0.4,5.50,20.70
+12/22/2018,"Topping, Original, Whipped",Dessert,4.0,Tablespoons,50,3,0,4,3,2,0,0,0
+12/22/2018,"Granola, Clusters, Cherry Walnut, Active w/Omega 3",Dessert,0.125,Cup,60,1.75,1.50,10,0,4,1.50,0,7.50
+12/21/2018,Medium Fruit Cup,Breakfast,1.125,Servings,51,0,0,13.50,0,10.13,2.25,0,0
+12/21/2018,"Milk, Low Fat, 1%",Breakfast,1.125,Cups,113,2.81,9,12.38,1.69,12.38,0,16.88,135
+12/21/2018,Egg White Chicken Grill,Breakfast,1.0,Serving,300,6,25,31,3,1,1,55,970
+12/21/2018,Bacon,Breakfast,2.0,Slices,80,6,7,0,n/a,n/a,0,n/a,170
+12/21/2018,"Chicken Breast, Skinless, Cooked",Breakfast,1.5,Ounces,70,1.50,13.19,0,0.43,0,0,36.2,31.52
+12/21/2018,"Steak, Slow Roasted Prime Rib, 12 oz",Lunch,1.0,Serving,"1,050",86,69,0,39,1,0,265,1300
+12/21/2018,"Beef, Sirloin, Steak, Lean, Broiled",Lunch,4.0,Ounces,213,7.43,34.35,0,2.82,0,0,74.84,71.44
+12/21/2018,"Bread, Wheat",Lunch,3.0,Slices,231,3.17,9.49,41.33,0.70,5,3.13,0,453.27
+12/21/2018,"Salad, Blue Cheese Wedge, w/ Dressing, Side",Lunch,1.0,Each,440,34,9,27,10,22,2,40,990
+12/21/2018,"French Fries, Medium, Fast Food",Lunch,0.25,Serving,107,5.71,1.26,12.57,1.33,0.23,1.17,0,64.99
+12/21/2018,Ketchup,Lunch,2.0,Tablespoons,29,0.9,0.52,7.54,0.1,6.83,0.9,0,334.20
+12/21/2018,"Potato, Baked, Loaded",Lunch,1.0,Each,460,29,10,41,15,3,3,70,1360
+12/21/2018,"Chicken Tenders, Fast Food",Lunch,1.0,Each,81,4.69,5.25,4.41,0.76,0,0.22,12.60,239.96
+12/21/2018,"Combat Powder, Chocolate Milk",Morning Nosh,1.25,Scoops,163,1.88,31.25,6.25,1.25,2.50,1.25,57.50,187.50
+12/21/2018,"Hot Cocoa, From Mix, Made w/ Water",Morning Nosh,8.0,Fluid ounces,151,1.51,2.52,31.67,0.88,24.78,1.37,0,200.31
+12/21/2018,"Cake, Funnel",Dessert,0.5,Each,615,27.50,7.50,88,12,30,2.50,50,570
+12/21/2018,"Sausage, Bratwurst, Pork, Cooked",Dessert,0.667,Each,189,16.54,7.78,1.62,5.66,0,0,41.95,479.64
+12/21/2018,"Pizza, Cheese, 14"", Fast Food",Dessert,1.0,Slice,272,9.80,12.27,33.56,4.35,4.14,1.75,21.63,551.5
+12/21/2018,"Beef, Brisket, Lean, Braised",Dessert,0.333,Pound,329,15.23,44.94,0,5.48,0,0,140.47,105.73
+12/21/2018,"Pork Ribs, Spareribs, Braised",Dessert,0.125,Pound,225,17.18,16.48,0,6.30,0,0,68.61,52.73
+12/21/2018,"Salad, Potato",Dessert,0.5,Cup,143,7.54,1.91,16.91,1.29,0,0,75,410
+12/21/2018,"Beans, Refried",Dessert,1.0,Cup,162,0,10.9,26.21,0,6.5,10.16,0,1391.50
+12/21/2018,"Candy, Chocolate, Peanut",Morning Nosh,10.0,Pieces,103,5.33,2.5,12.30,2.5,10.25,0.82,2.5,10.25
+12/20/2018,Grass Fed Whey Chocolate,Lunch,1.0,Serving,120,0.50,24,6,0,0,2,5,130
+12/20/2018,"Bread, Thin Sliced, 21 Whole Grains & Seeds",Lunch,2.0,Slices,120,2,6,24,0,6,6,0,200
+12/20/2018,"Ham, Smoked, Black Forest",Lunch,0.25,Pound,121,2.2,20.25,4.5,0,4.5,0,60.75,1133.98
+12/20/2018,"Cheese, Cheddar, 1 oz Slice",Lunch,1.0,Slice,113,9.28,6.97,0.36,5.91,0.15,0,29.40,173.88
+12/20/2018,Tortilla Chips Thins,Dinner,50.0,Grams,232,10.71,3.57,30.36,1.79,0,3.57,0,89.29
+12/20/2018,Tillamoo Medium Cheddar Cheese,Dinner,2.0,Ounces,220,18,14,0,12,0,0,50,340
+12/20/2018,Sour Cream,Dinner,2.0,Tablespoons,60,5,1,1,3.50,1,0,20,15
+12/20/2018,Avocado,Dinner,0.5,Each,161,14.73,2.1,8.57,2.13,0.66,6.73,0,7.4
+12/20/2018,"Beans, Pinto",Dinner,0.75,Serving,86,0.75,4.50,15.75,0,0,7.50,3.75,225
+12/20/2018,"Rice, Brown",Dinner,0.75,Serving,158,4.13,3,27,0.75,0,1.88,0,146.25
+12/20/2018,"Turkey, Ground, 93% Lean",Dinner,0.667,Pound,448,23.18,59.48,0,6.12,0,0,208.76,175.48
+12/20/2018,Chocolate Chip Cookie,Morning Nosh,2.0,Servings,400,16,16,66,8,24,10,0,520
+12/20/2018,"Combat Powder, Chocolate Milk",Morning Nosh,1.25,Scoops,163,1.88,31.25,6.25,1.25,2.50,1.25,57.50,187.50
+12/19/2018,"Combat Powder, Chocolate Milk",Lunch,1.25,Scoops,163,1.88,31.25,6.25,1.25,2.50,1.25,57.50,187.50
+12/19/2018,Wild Alaskan Sockeye Salmon,Lunch,212.0,Grams,340,16,48,0,4,0,0,92,760
+12/19/2018,"Pasta Sauce, Fresh Garlic & Basil",Dinner,1.5,Cups,210,9,6,21,0,12,6,0,1140
+12/19/2018,"Ground Beef, 90% Lean, Broiled",Dinner,0.5,Pound,492,26.60,59.22,0,10.48,0,0,192.78,154.22
+12/19/2018,"Pasta, Spaghetti, Cooked",Dinner,2.5,Cups,553,3.25,20.30,108.1,0.60,1.96,6.30,0,3.50
+12/19/2018,"Cheese, Parmesan, Grated",Dinner,4.0,Tablespoons,86,5.72,7.69,0.81,3.46,0.18,0,17.60,305.80
+12/19/2018,"Bread, Sourdough",Dinner,1.5,Slices,277,1.76,11.28,54.18,0.47,2.46,2.30,0,624
+12/19/2018,"Butter, Pure Irish",Dinner,0.5,Tablespoon,50,5.50,0,0,4,0,0,15,0
+12/19/2018,Cesar Salad,Dinner,1.5,Cups,225,18,6,10.50,3,1.50,3,22.50,405
+12/18/2018,"Milk, Low Fat, 1%",Breakfast,1.125,Cups,113,2.81,9,12.38,1.69,12.38,0,16.88,135
+12/18/2018,"Chicken Breast, Skinless, Cooked",Breakfast,1.5,Ounces,70,1.52,13.19,0,0.43,0,0,36.15,31.47
+12/18/2018,Medium Fruit Cup,Breakfast,1.125,Servings,51,0,0,13.50,0,10.13,2.25,0,0
+12/18/2018,Egg White Chicken Grill,Breakfast,1.0,Serving,300,6,25,31,3,1,1,55,970
+12/18/2018,Bacon,Breakfast,2.0,Slices,80,6,7,0,n/a,n/a,0,n/a,170
+12/18/2018,Sausage Patty,Breakfast,1.0,Serving,180,17,6,0,6,0,0,28,270
+12/18/2018,"Egg, Fried, Small",Breakfast,1.0,Each,78,5,6,0.60,1.60,0.60,0,187,62
+12/18/2018,12 Grilled Nuggets,Lunch,12.0,Pieces,210,5,38,3,n/a,n/a,n/a,n/a,n/a
+12/18/2018,Chick-fil-a 8- count nuggets,Lunch,8.0,Pieces,270,13,28,10,3,1,1,70,1060
+12/18/2018,"Salad, Superfood, Small",Lunch,1.0,Each,140,7,3,16,1,11,2,0,150
+12/18/2018,Barbeque Sauce,Lunch,3.0,Servings,135,0,0,33,0,27,0,0,540
+12/18/2018,Mandarin Orange Chicken,Dinner,3.0,Cups,780,21,39,105,3,42,0,90,1500
+12/18/2018,"Rice, White, Basmati, Cooked",Dinner,0.75,Cup,153,0.45,3.67,32.48,0.23,0,0.68,0,1.50
+12/18/2018,"Egg Roll, Chicken",Dinner,1.0,Each,155,4,6,24,0.75,6,1.50,7.50,430
+12/18/2018,"Butter, Pure Irish",Dinner,0.5,Tablespoon,50,5.50,0,0,4,0,0,15,0
+12/18/2018,"Brussels Sprouts, Raw",Dinner,7.0,Each,60,0.42,4.73,12.53,0.8,3.8,5.32,0,35
+12/18/2018,"Combat Powder, Chocolate Milk",Morning Nosh,1.25,Scoops,163,1.88,31.25,6.25,1.25,2.50,1.25,57.50,187.50
+12/18/2018,Extra Protein Crunchy Peanut Butter,Morning Nosh,32.0,Grams,170,13,10,6,2,3,2,0,110
+12/18/2018,"Bread, Thin Sliced, 21 Whole Grains & Seeds",Morning Nosh,2.0,Slices,120,2,6,24,0,6,6,0,200
+12/18/2018,"Cheese, Cheddar",Morning Nosh,3.0,Ounces,334,27.34,21.26,0,15.19,0,0,91.12,546.74
+12/17/2018,"Salad, Famous House, w/ Dressing",Dinner,2.0,Each,280,18,6,24,3,6,4,5,1480
+12/17/2018,"Steak, USDA Top Sirloin, 6 oz.",Dinner,1.5,Each,345,13.50,51,3,6,0,1.50,135,2175
+12/17/2018,"Pasta, Fettuccine Alfredo",Dinner,0.75,Serving,758,42,22.50,72.75,25.50,3.75,5.25,116.25,637.50
+12/17/2018,Chocolate Chip Cookie,Dessert,2.0,Servings,400,16,16,66,8,24,10,0,520
+12/23/2018,HealthKit Workout,Exercise,60,minutes,0.0
+12/23/2018,Calorie Burn Bonus,Exercise,0,minutes,911.0
+12/22/2018,HealthKit Workout,Exercise,31,minutes,0.0
+12/22/2018,Calorie Burn Bonus,Exercise,0,minutes,742.0
+12/21/2018,HealthKit Workout,Exercise,65,minutes,0.0
+12/21/2018,Calorie Burn Bonus,Exercise,0,minutes,1332.0
+12/20/2018,HealthKit Workout,Exercise,32,minutes,0.0
+12/20/2018,Calorie Burn Bonus,Exercise,0,minutes,586.0
+12/19/2018,Cross Fit,Exercise,35,minutes,511.588
+12/19/2018,Calorie Burn Bonus,Exercise,0,minutes,0.0
+12/18/2018,HealthKit Workout,Exercise,48,minutes,0.0
+12/18/2018,Calorie Burn Bonus,Exercise,0,minutes,542.0
+12/17/2018,Calorie Burn Bonus,Exercise,0,minutes,192.0

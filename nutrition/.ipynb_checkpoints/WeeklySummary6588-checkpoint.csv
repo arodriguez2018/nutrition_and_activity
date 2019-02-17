@@ -1,0 +1,131 @@
+Date,Name,Type,Quantity,Units,Calories,Fat (g),Protein (g),Carbohydrates (g),Saturated Fat (g),Sugars (g),Fiber (g),Cholesterol (mg),Sodium (mg)
+01/20/2019,"Eggs - Organic Pasture-Raised, Large Grade A",Breakfast,2.0,Each,140,10,12,0,3,0,0,370,140
+01/20/2019,Sausage Patty,Breakfast,3.0,Servings,540,51,18,0,18,0,0,84,810
+01/20/2019,"Potatoes, Breakfast",Breakfast,1.0,Each,140,5,2,21,0,1,2,0,290
+01/20/2019,Tillamoo Medium Cheddar Cheese,Breakfast,0.5,Ounce,55,4.50,3.50,0,3,0,0,12.50,85
+01/20/2019,"Oatmeal, Plain, Fortified, Instant, Cooked",Breakfast,1.0,Cup,159,3.18,5.55,27.31,0.61,1.8,3.98,0,114.66
+01/20/2019,"Waffles, Homestyle",Breakfast,1.0,Each,90,3,2,13.50,0.75,1,0.25,2.50,180
+01/20/2019,"Butter, Pure Irish",Breakfast,0.25,Tablespoon,25,2.75,0,0,2,0,0,7.50,0
+01/20/2019,"Syrup, Maple",Breakfast,1.0,Tablespoon,52,0.4,0,13.42,0.1,11.90,0,0,1.80
+01/20/2019,"Juice, Orange",Breakfast,6.0,Fluid ounces,84,0.37,1.30,19.34,0.4,15.62,0.37,0,1.86
+01/20/2019,"Chips, Tortilla, White Corn",Lunch,20.0,Pieces,303,14.48,4.83,40.65,1.74,0.62,3.29,0,261.2
+01/20/2019,Avocado,Lunch,0.5,Each,161,14.73,2.1,8.57,2.13,0.66,6.73,0,7.4
+01/20/2019,"Beef, Outside Skirt Steak, Boneless, Grilled, Lean",Lunch,0.5,Pound,640,43.22,62.70,0,15.21,0,0,232.13,160.9
+01/20/2019,"Rice, White, Basmati, Cooked",Lunch,0.25,Cup,51,0.15,1.23,10.82,0.8,0,0.23,0,0.50
+01/20/2019,"Beans, Refried",Lunch,0.25,Cup,41,0,2.52,6.55,0,1.51,2.54,0,347.88
+01/20/2019,"Soda, Coke",Lunch,18.0,Ounces,210,0,0,58.50,0,58.50,0,0,67.50
+01/20/2019,Tillamoo Medium Cheddar Cheese,Lunch,0.5,Ounce,55,4.50,3.50,0,3,0,0,12.50,85
+01/20/2019,"Vegetables, Grilled",Lunch,1.0,Serving,40,2.50,1,4,0,2,1,0,40
+01/20/2019,"Soup, Chicken Tortilla",Lunch,2.0,Cups,280,3,18,46,0,6,12,30,780
+01/20/2019,Chocolate Milk,Morning Nosh,1.0,Serving,150,2.50,8,23,1.50,22,0,15,180
+01/20/2019,"Cake, Tres Leches",Dessert,1.333,Pieces,333,20,5.33,33.33,10.66,27.99,0,66.65,213.28
+01/20/2019,Original Tart,Dessert,18.0,Fluid ounces,405,0,13.50,90,n/a,67.50,n/a,n/a,517.50
+01/20/2019,"Cookie, Chocolate Chip, Large",Dessert,1.0,Each,190,9.32,2.5,25.54,3.98,14.6,0.96,0,118.40
+01/19/2019,Medium Fruit Cup,Breakfast,4.0,Servings,180,0,0,48,0,36,8,0,0
+01/19/2019,Tillamoo Medium Cheddar Cheese,Breakfast,2.0,Ounces,220,18,14,0,12,0,0,50,340
+01/19/2019,Avocado,Breakfast,0.5,Each,161,14.73,2.1,8.57,2.13,0.66,6.73,0,7.4
+01/19/2019,"Eggs - Organic Pasture-Raised, Large Grade A",Breakfast,3.0,Each,210,15,18,0,4.50,0,0,555,210
+01/19/2019,"Black Forest Ham, Smokemaster Beechwood Smoked",Breakfast,0.25,Pound,120,2,20,4,0,4,0,60,920
+01/19/2019,"Bread, Sourdough",Breakfast,1.0,Slice,185,1.17,7.52,36.12,0.31,1.64,1.54,0,416
+01/19/2019,"Butter, Pure Irish",Breakfast,1.0,Tablespoon,100,11,0,0,8,0,0,30,0
+01/19/2019,Protein Milk,Breakfast,1.0,Cup,180,9,12,13,n/a,12,n/a,40,135
+01/19/2019,"Chicken, Fried, Drumstick, w/ Skin, Fried in Flour",Dinner,1.0,Each,120,6.72,13.21,0.80,1.79,0,0.5,44.10,43.61
+01/19/2019,"Pizza, Pepperoni, 14"", Fast Food",Dinner,2.0,Slices,596,24.26,26.63,67.95,10.52,8.23,3.24,58.32,1365.12
+01/19/2019,"Salad, Greek, Half",Dinner,2.0,Each,400,36,8,14,8,8,4,20,1020
+01/19/2019,"Whey Protein, Double Rich Chocolate, Gold Standard",Morning Nosh,1.0,Serving,120,1,24,3,0.50,1,0,30,60
+01/19/2019,"Cookie, Chocolate Chip, Large",Dessert,1.0,Each,190,9.32,2.5,25.54,3.98,14.6,0.96,0,118.40
+01/19/2019,"Chips, Corn, Sun Chips",Morning Nosh,25.0,Pieces,217,9.35,3.52,29.79,0.96,3.19,3.1,0,144.85
+01/19/2019,"Cupcakes, Chocolate",Morning Nosh,2.0,Each,380,18,2,56,4,42,0,40,400
+01/19/2019,Tillamoo Medium Cheddar Cheese,Morning Nosh,2.0,Ounces,220,18,14,0,12,0,0,50,340
+01/19/2019,"Beef, Jerky, Original",Morning Nosh,2.0,Ounces,162,3.4,30.37,6.7,1.1,4.5,0,70.87,1457.97
+01/19/2019,Hopadillo IPA Beer,Ale/Wine 1,24.0,Fluid ounces,297,0,3,27,0,0,0,0,21
+01/19/2019,"Cookie, Chocolate Chip, Large",Dessert,1.0,Each,190,9.32,2.5,25.54,3.98,14.6,0.96,0,118.40
+01/19/2019,"Cookie, Chocolate Chip, Large",Dessert,1.0,Each,190,9.32,2.5,25.54,3.98,14.6,0.96,0,118.40
+01/19/2019,"Popcorn, Oil Popped",Morning Nosh,3.0,Cups,140,10.45,1.75,10.81,1.64,0.11,1.94,0,253.92
+01/18/2019,"Eggs - Organic Pasture-Raised, Large Grade A",Breakfast,4.0,Each,280,20,24,0,6,0,0,740,280
+01/18/2019,"Beef, Top Sirloin Steak, Lean, Cooked",Breakfast,0.125,Pound,146,8.93,15.20,0,3.52,0,0,47.6,30.62
+01/18/2019,"Pork, Chorizo",Breakfast,1.0,Ounce,85,7.29,4.5,1.21,2.83,0.40,0,50.62,271.35
+01/18/2019,Tillamoo Medium Cheddar Cheese,Breakfast,1.0,Ounce,110,9,7,0,6,0,0,25,170
+01/18/2019,Sausage Patty,Breakfast,0.667,Serving,120,11.34,4,0,4,0,0,18.68,180.9
+01/18/2019,Potato,Breakfast,0.25,Pound,83,0,2.27,19.66,0,2.27,1.51,0,7.56
+01/18/2019,"Bread, Cornbread, From Mix",Dinner,2.0,Pieces,377,12,8.64,57.72,3.28,0,2.88,73.20,933.60
+01/18/2019,"Potatoes, Mashed",Dinner,1.5,Cups,360,15,7.50,48,7.50,3,4.50,37.50,1095
+01/18/2019,"Beef, Chuck, Roast or Steak",Dinner,1.0,Pound,972,59.40,118.80,0,24.30,0,0,431.99,323.99
+01/18/2019,Grass Fed Whey Chocolate,Morning Nosh,1.0,Serving,120,0.50,24,6,0,0,2,5,130
+01/18/2019,"Protein Box, Egg & Cheese",Morning Nosh,1.0,Serving,460,24,23,40,7,21,5,385,530
+01/18/2019,"Cookie, Chocolate Chip, Large",Dessert,1.0,Each,190,9.32,2.5,25.54,3.98,14.6,0.96,0,118.40
+01/18/2019,"Milk, Whole, 3.25%",Dessert,1.25,Cups,186,9.91,9.61,14.64,5.67,16.4,0,30.50,131.15
+01/17/2019,Wild Alaskan Sockeye Salmon,Lunch,212.0,Grams,340,16,48,0,4,0,0,92,760
+01/17/2019,Premium Six Cheese Ravioli,Lunch,1.333,Servings,347,14.66,17.33,37.32,8,2.67,2.67,86.64,733.15
+01/17/2019,"Ground Beef, 93% Lean, Broiled",Lunch,0.333,Pound,292,13.50,33.67,0,5.56,0,0,113.28,84.59
+01/17/2019,"Sauce, Spaghetti, Garlic & Basil",Lunch,1.25,Cups,175,7.50,5,17.50,0,10,5,0,950
+01/17/2019,"Bread, Sourdough",Dinner,0.25,Pound,332,2.77,11.6,60.85,0,0,2.77,0,608.48
+01/17/2019,"Corn, Sweet, Kernels",Dinner,1.0,Cup,125,1.96,4.74,27.11,0.46,9.8,2.90,0,21.75
+01/17/2019,"Butter, Pure Irish",Dinner,0.5,Tablespoon,50,5.50,0,0,4,0,0,15,0
+01/17/2019,"Pasta, Shells & Cheese, Orig, Velveeta, Cup",Dinner,2.333,Ounces,215,7.81,7.81,28.31,2.93,2.93,0,9.76,624.74
+01/17/2019,Avocado,Dinner,0.5,Each,161,14.73,2.1,8.57,2.13,0.66,6.73,0,7.4
+01/17/2019,"Chicken, Rotisserie, Half",Dinner,0.667,Each,427,22.1,56.3,1.33,6.67,0.67,0,226.78,920.46
+01/17/2019,"Whey Protein, Double Rich Chocolate, Gold Standard",Morning Nosh,1.0,Serving,120,1,24,3,0.50,1,0,30,60
+01/17/2019,Perfect bar - Dark chocolate crisp,Morning Nosh,1.25,Servings,325,18.75,12.50,25,3.13,15,3.75,12.50,18.75
+01/17/2019,Organic Aussie Bites,Morning Nosh,2.0,Pieces,260,14,4,32,4,16,4,0,180
+01/17/2019,Fresh Mixed Fruit,Dessert,1.0,Cup,140,0,2,36,0,14,6,0,14
+01/16/2019,Ham And Swiss Souffle,Breakfast,1.0,Serving,500,30,20,37,16,8,2,175,790
+01/16/2019,Green Passion Power Smoothie,Breakfast,1.0,Serving,200,0,3,51,n/a,47,2,n/a,30
+01/16/2019,"Breakfast Sandwich, Avocado, Egg White & Spinach Breakfast",Breakfast,1.0,Each,410,14,12,52,6,4,7,25,590
+01/16/2019,"Bread, Italian",Dinner,1.0,Slice,90,1.50,3,16,0,1,2,0,130
+01/16/2019,"Cheese, Mozzarella, Fresh",Dinner,2.0,Ounces,140,10,10,0,6,0,0,40,170
+01/16/2019,Grass Fed Whey Chocolate,Morning Nosh,1.0,Serving,120,0.50,24,6,0,0,2,5,130
+01/16/2019,"Pretzels, Classic Style, Twist, Tiny",Morning Nosh,20.0,Pieces,110,1,2,23,0,1,1,0,580
+01/16/2019,"Egg Bites, Sous Vide, Egg White & Red Pepper",Morning Nosh,2.0,Each,170,7,13,13,5,2,1,25,500
+01/16/2019,"Protein Box, Egg & Cheese",Morning Nosh,1.0,Serving,460,24,23,40,7,21,5,385,530
+01/16/2019,Tillamoo Medium Cheddar Cheese,Morning Nosh,0.75,Ounce,83,6.75,5.25,0,4.50,0,0,18.75,127.50
+01/16/2019,Protein Power Banana Chocolate Chunk Muffins,Morning Nosh,2.0,Servings,260,4,14,42,n/a,30,4,n/a,n/a
+01/16/2019,Homeade Vanilla Ice Cream,Dessert,1.0,Cup,180,9,4,20,6,19,0,35,70
+01/16/2019,"Muffin, Blueberry, Small",Dessert,1.0,Each,259,12.70,3.48,32.70,2.34,17.85,1.12,26.40,207.90
+01/16/2019,"Rolls, Original, Sweet",Dessert,1.0,Each,90,2,3,16,1,5,0,15,80
+01/16/2019,"Bread, Sourdough",Dessert,1.0,Slice,185,1.17,7.52,36.12,0.31,1.64,1.54,0,416
+01/16/2019,Mediterranean Crunch Salad kit,Dessert,6.0,Ounces,255,17.1,5.10,23.81,0,1.70,1.70,0,34.2
+01/16/2019,"Couscous, Cooked",Dessert,1.0,Cup,176,0.25,5.95,36.46,0.3,0.16,2.20,0,7.85
+01/16/2019,Parmesean Crusted Tilapia,Dessert,1.5,Servings,375,15,43.50,16.50,3.75,3,1.50,75,540
+01/15/2019,"Beans, Black",Lunch,1.0,Serving,120,1,7,22,0,0,12,0,260
+01/15/2019,"Rice, Brown",Lunch,1.0,Serving,210,5.50,4,36,1,0,2.50,0,195
+01/15/2019,"Turkey, Ground, 93% Lean",Lunch,1.0,Pound,671,34.75,89.18,0,9.18,0,0,312.98,263.8
+01/15/2019,Avocado,Lunch,0.75,Each,241,22.10,3.2,12.86,3.20,0.99,10.10,0,10.55
+01/15/2019,Tillamoo Medium Cheddar Cheese,Lunch,2.0,Ounces,220,18,14,0,12,0,0,50,340
+01/15/2019,"Cabbage, Chopped",Lunch,3.0,Cups,67,0.27,3.42,15.49,0.8,8.54,6.67,0,48.6
+01/15/2019,"Tomatoes, Red, Slices, 1/4""",Lunch,5.0,Pieces,18,0.20,0.88,3.92,0.2,2.63,1.20,0,5
+01/15/2019,"Cheese, Mozzarella, Fresh",Dinner,2.333,Ounces,163,11.66,11.66,0,7,0,0,46.66,198.31
+01/15/2019,"Butter, Pure Irish",Dinner,0.333,Tablespoon,33,3.66,0,0,2.66,0,0,9.99,0
+01/15/2019,"Bread, Sourdough",Dinner,1.25,Slices,231,1.46,9.40,45.15,0.39,2.5,1.92,0,520
+01/15/2019,Premium Six Cheese Ravioli,Dinner,2.0,Servings,520,22,26,56,12,4,4,130,1100
+01/15/2019,"Sauce, Spaghetti, Garlic & Basil",Dinner,2.5,Cups,350,15,10,35,0,20,10,0,1900
+01/15/2019,"Ground Beef, 93% Lean, Broiled",Dinner,0.5,Pound,438,20.28,50.55,0,8.36,0,0,170.10,127.1
+01/15/2019,Fresh Mixed Fruit,Dinner,1.0,Cup,140,0,2,36,0,14,6,0,14
+01/15/2019,Chocolate mocha,Morning Nosh,10.0,Fluid ounces,163,0,32.50,8.75,0,5,1.25,0,500
+01/15/2019,"Chicken Nuggets, 8 Piece",Morning Nosh,3.0,Pieces,101,4.88,10.50,3.75,0.94,0.38,0.38,26.25,397.50
+01/15/2019,Nutrition Bar,Morning Nosh,1.0,Serving,310,18,13,24,1.50,18,4,15,60
+01/15/2019,Tillamoo Medium Cheddar Cheese,Morning Nosh,0.75,Ounce,83,6.75,5.25,0,4.50,0,0,18.75,127.50
+01/15/2019,"Milk, Whole",Dessert,1.0,Cup,160,8,8,13,5,12,0,35,135
+01/15/2019,Protein Power Banana Chocolate Chunk Muffins,Dessert,2.0,Servings,260,4,14,42,n/a,30,4,n/a,n/a
+01/14/2019,"Chips, Tortilla, White Corn",Dinner,18.0,Pieces,273,13.3,4.35,36.58,1.57,0.56,2.96,0,234.92
+01/14/2019,"Turkey, Ground, 93% Lean",Dinner,1.0,Pound,671,34.75,89.18,0,9.18,0,0,312.98,263.8
+01/14/2019,"Beans, Black",Dinner,0.5,Serving,60,0.50,3.50,11,0,0,6,0,130
+01/14/2019,"Rice, White, Basmati, Cooked",Dinner,1.0,Cup,204,0.60,4.90,43.30,0.30,0,0.90,0,2
+01/14/2019,Avocado,Dinner,0.667,Each,215,19.65,2.68,11.44,2.84,0.88,8.98,0,9.38
+01/14/2019,Tillamoo Medium Cheddar Cheese,Dinner,2.0,Ounces,220,18,14,0,12,0,0,50,340
+01/14/2019,"Sour Cream, Regular",Dinner,5.0,Tablespoons,150,12.50,2.50,5,8.75,2.50,0,50,37.50
+01/14/2019,"Combat Powder, Chocolate Milk",Morning Nosh,1.25,Scoops,163,1.88,31.25,6.25,1.25,2.50,1.25,57.50,187.50
+01/20/2019,HealthKit Workout,Exercise,35,minutes,0.0
+01/20/2019,HealthKit Workout,Exercise,27,minutes,0.0
+01/20/2019,Calorie Burn Bonus,Exercise,0,minutes,1000.0
+01/19/2019,HealthKit Workout,Exercise,63,minutes,0.0
+01/19/2019,Calorie Burn Bonus,Exercise,0,minutes,1083.0
+01/18/2019,HealthKit Workout,Exercise,51,minutes,0.0
+01/18/2019,Calorie Burn Bonus,Exercise,0,minutes,554.0
+01/17/2019,HealthKit Workout,Exercise,100,minutes,0.0
+01/17/2019,Calorie Burn Bonus,Exercise,0,minutes,1290.0
+01/16/2019,HealthKit Workout,Exercise,59,minutes,0.0
+01/16/2019,Calorie Burn Bonus,Exercise,0,minutes,1101.0
+01/15/2019,HealthKit Workout,Exercise,122,minutes,0.0
+01/15/2019,Calorie Burn Bonus,Exercise,0,minutes,1523.0
+01/14/2019,Calorie Burn Bonus,Exercise,0,minutes,270.0
